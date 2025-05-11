@@ -60,13 +60,13 @@ This demonstration reflects the following UNEP consultancy goals:
 
 ## 👤 About Me
 
-I am a data management and GIS practitioner with experience in:
+I am a data manager and GIS practitioner with experience in:
 - Environmental program monitoring
 - Data reporting and visualization
 - Spatial data handling
 - Knowledge management and documentation
 
-🔗 **LinkedIn / GitHub / CV:** [Your Links Here]
+🔗 **LinkedIn / GitHub / CV:** weldon langat
 
 ---
 
