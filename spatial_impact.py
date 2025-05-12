@@ -1,7 +1,7 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
 
-# Sample data (replace with real shapefiles)
+# Sample data 
 protected_areas = gpd.GeoDataFrame({
     "name": ["Nairobi NP", "Ngong Forest"],
     "geometry": gpd.points_from_xy([36.8219, 36.7500], [-1.2921, -1.4000])
